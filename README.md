@@ -1,8 +1,9 @@
-# BUILD A WEBSITE WITH HTML, CSS, AND GITHUB PAGES
-
 __Objective__
 
-## Off-Platform Project: Excursion
+# BUILD A WEBSITE WITH HTML, CSS, AND GITHUB PAGES
+
+Off-Platform Project: Excursion
+====
 
 In this project, you'll create a web page which advertises a product called "Excursion." You'll use your growing toolset including HTML, CSS, Command Line Interface, Git, and GitHub. You'll be proud of yourself when it all comes together!
 
@@ -15,11 +16,9 @@ A preview of the page is available [here](https://content.codecademy.com/program
 If you get stuck during this project or would like to see an experienced developer work through it, click "Get Unstuck" to see a project walkthrough video.
 
 ------------
-Tasks 13/13 Complete
-
-Mark the tasks as complete by checking them off
 
 __Tasks__
+
 ------------
 
 1.  [x] Download the [design mock](https://content.codecademy.com/programs/freelance-one/excursion/mocks/excursion.png?_gl=1*1ewwq58*_ga*MDY2MzcwNTU2OS4xNjc1OTkyODMw*_ga_3LRZM6TM9L*MTY4NjYwOTA0NS4xOS4wLjE2ODY2MDkwNDUuNjAuMC4w) and [redline mock](https://content.codecademy.com/programs/freelance-one/excursion/mocks/excursion_redline.png?_gl=1*1ewwq58*_ga*MDY2MzcwNTU2OS4xNjc1OTkyODMw*_ga_3LRZM6TM9L*MTY4NjYwOTA0NS4xOS4wLjE2ODY2MDkwNDUuNjAuMC4w). Review these, and think about how you might implement the web page with HTML and CSS.
@@ -60,8 +59,16 @@ By default, images will appear on the same line as the element before them. In t
 
 11. [x] Push your local changes to your repository on GitHub. Reload your GitHub repository page in your browser to see that your new commits saved to the cloud. If you completed all of the GitHub Pages setup steps, this project should be automatically deployed. Navigate to http://<user.github./<repository-name> to view the deployed version of your project.
 
-12. - [x] To complete the page, add the footer and any remaining CSS. Review the redline mock and confirm your progress.
+12. [x] To complete the page, add the footer and any remaining CSS. Review the redline mock and confirm your progress.
 
--[ ] 13. When you are satisfied with your work, make sure to commit your changes once again. Your commit message should reflect that you feel this is complete! Finally, push your changes to GitHub.
+13. [x] When you are satisfied with your work, make sure to commit your changes once again. Your commit message should reflect that you feel this is complete! Finally, push your changes to GitHub.
 
 Now take a step back, reflect, and be proud; you’ve accomplished a lot!
+![excursion](https://github.com/mtdowner/excursion/assets/93113515/1fc10902-e2f8-4db6-8fa9-9c2008867acf)
+![excursion_redline](https://github.com/mtdowner/excursion/assets/93113515/6222d278-0914-4084-87d3-2d821441d049)
+![phone](https://github.com/mtdowner/excursion/assets/93113515/0288ac70-f83f-433d-a076-5e2822c7d6b0)
+![camp](https://github.com/mtdowner/excursion/assets/93113515/fc0fa634-0000-46dc-aebe-cc5f816134e1)
+
+
+https://github.com/mtdowner/excursion/assets/93113515/0890ff77-aa0b-43d5-bf6a-8bf96244ea33
+
