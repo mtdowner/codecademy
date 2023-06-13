@@ -64,6 +64,8 @@ By default, images will appear on the same line as the element before them. In t
 13. [x] When you are satisfied with your work, make sure to commit your changes once again. Your commit message should reflect that you feel this is complete! Finally, push your changes to GitHub.
 
 Now take a step back, reflect, and be proud; you’ve accomplished a lot!
+
+  
 ![excursion](https://github.com/mtdowner/excursion/assets/93113515/1fc10902-e2f8-4db6-8fa9-9c2008867acf)
 ![excursion_redline](https://github.com/mtdowner/excursion/assets/93113515/6222d278-0914-4084-87d3-2d821441d049)
 ![phone](https://github.com/mtdowner/excursion/assets/93113515/0288ac70-f83f-433d-a076-5e2822c7d6b0)
