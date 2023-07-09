@@ -4,7 +4,7 @@ This repo contains my off-platform projects and resources used for the Front-End
 
 
 ## Career Path
-** Front-End Engineer **
+**Front-End Engineer**
 
 Professional Certification
 
