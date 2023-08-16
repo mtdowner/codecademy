@@ -35,7 +35,7 @@ Improve upon your static site by incorporating principles of web design, respons
 
 - [x] Improved Styling with CSS
 - [x] Fundamentals of Web Design
-- [ ] Making a Website Responsive 80%
+- [ ] Making a Website Responsive 92%
 - [ ] CSS Transitions and Animation 33%
 
 Certification exam
