@@ -1,16 +1,14 @@
-# Welcome to my Codecademy repo!
+# Welcome to my Codecademy repo
 
 This repo contains my off-platform projects and resources used for the Front-End Engineer and Fullstack career paths. The wiki contains project instructions for my own reference.
 
-
-## Career Path
-**Front-End Engineer**
-
-Professional Certification
+## Career Path: Front-End Engineer Professional Certification
 
 Front-end engineers work closely with designers to make websites beautiful, functional, and fast.
 
 ## Path Curriculum
+
+---
 
 ### Web Foundations
 
@@ -22,13 +20,11 @@ Get started with the foundations. By the end of this section, you’ll be able t
 - [x] Developing Websites Locally
 - [x] Deploying Websites
 
-Certification exam
-**Objective assessment — Part 1**
-
-Certification exam
-**Objective assessment — Part 2**
+- [ ] **Certification exam Objective assessment — Part 1**
+- [ ] **Certification exam Objective assessment — Part 2**
 
 ### Improved Styling with CSS
+
 83% progress
 
 Improve upon your static site by incorporating principles of web design, responsiveness, transitions, and animations.
@@ -38,13 +34,11 @@ Improve upon your static site by incorporating principles of web design, respons
 - [ ] Making a Website Responsive 92%
 - [ ] CSS Transitions and Animation 33%
 
-Certification exam
-**Objective assessment — Part 1**
-
-Certification exam
-**Objective assessment — Part 2**
+- [ ] **Certification exam Objective assessment — Part 1**
+- [ ] **Certification exam Objective assessment — Part 2**
 
 ### Building Interactive Websites
+
 29% progress
 
 Build interactive sites using JavaScript and host it on a remote GitHub repository.
@@ -56,13 +50,11 @@ Build interactive sites using JavaScript and host it on a remote GitHub reposito
 - [x] Git and GitHub, Part I
 - [ ] Portfolio Project: Personal Portfolio Website
 
-Certification exam
-**Objective assessment — Part 1**
-
-Certification exam
-**Objective assessment — Part 2**
+- [ ] **Certification exam Objective assessment — Part 1**
+- [ ] **Certification exam Objective assessment — Part 2**
 
 ### Front-End Development
+
 9% progress
 
 Learn the front-end skills you’ll need to create interactive applications. Build a single-page web app that handles user actions. Then, deploy your app to Netlify.
@@ -78,12 +70,8 @@ Learn the front-end skills you’ll need to create interactive applications. Bui
 - [ ] Portfolio Project: Reddit Client
 - [ ] Advanced Web Development
 
-Certification exam
-**Objective assessment — Part 1**
-
-Certification exam
-**Objective assessment — Part 2**
-
+- [ ] **Certification exam Objective assessment — Part 1**
+- [ ] **Certification exam Objective assessment — Part 2**
 
 ### Interview Prep
 
@@ -98,8 +86,5 @@ It’s important to learn interviewing skills to help you land your target role.
 - [ ]  Portfolio Project: Open-Ended Project
 - [ ]  Next Steps in Your Front-End Engineer Journey
 
-Certification exam
-**Objective assessment — Part 1**
-
-Certification exam
-**Objective assessment — Part 2**
+- [ ] **Certification exam Objective assessment — Part 1**
+- [ ] **Certification exam Objective assessment — Part 2**
