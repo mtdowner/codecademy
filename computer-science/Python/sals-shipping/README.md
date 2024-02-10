@@ -36,7 +36,7 @@ Flat charge: $125.00
 
 Write a `shipping.py` Python program that asks the user for the weight of their package and then tells them which method of shipping is cheapest and how much it will cost to ship their package using Sal’s Shippers.
 
-> Note that the walkthrough video for this project is slightly out of date — the walkthrough was done using a version of this project that uses functions. Feel free to come back to the video after having been introduced to functions!
+Note that the walkthrough video for this project is slightly out of date — the walkthrough was done using a version of this project that uses functions. Feel free to come back to the video after having been introduced to functions!
 
 ## Tasks
 
@@ -44,109 +44,58 @@ Check off all the tasks as you go. Once all are completed you can complete the p
 
 ## Ground Shipping:
 
--[x] Task 1
+### Task 1
 
 First things first, define a `weight` variable and set it equal to any number.
 
+### Task 2
 
-Next, we need to know how much it costs to ship a package of given weight by normal ground shipping based on the “Ground shipping” table above.
+Next, we need to know how much it costs to ship a package of given weight by normal ground shipping based on the "Ground shipping" table above.
 
-Write a comment that says “Ground Shipping”.
+Write a comment that says "Ground Shipping".
 
-Create an if/elif/else statement for the cost of ground shipping. It should check for weight, and print the cost of shipping a package of that weight.
+Create an `if/elif/else` statement for the cost of ground shipping. It should check for `weight`, and print the `cost` of shipping a package of that weight.
 
 
-Get a hint
+### Task 3
 
 A package that weighs 8.4 pounds should cost $53.60 to ship with normal ground shipping:
 
-8
-.
-4
- 
-�
-�
-×
-$
-4
-.
-0
-0
-+
-$
-2
-0
-.
-0
-0
-=
-$
-5
-3
-.
-6
-0
-8.4 lb×$4.00+$20.00=$53.60
+*8.4lb × $4.00 + $20.00 = $53.60*
+
 Test that your ground shipping calculation gets the same value.
 
+## Ground Shipping Premium:
 
-Get a hint
-Ground Shipping Premium:
+### Task 4
 
 We’ll also need to make sure we include the price of premium ground shipping in our code.
 
 Create a variable for the cost of premium ground shipping.
 
-Note: This does not need to be an if statement because the price of premium ground shipping does not change with the weight of the package.
+> **Note**: This does not need to be an if statement because the price of premium ground shipping does not change with the weight of the package.
 
-
-Get a hint
+### Task 5
 
 Print it out for the user just in case they forgot!
 
+## Drone Shipping:
 
-Get a hint
-Drone Shipping:
+### Task 6
 
-Write a comment for this section of the code, “Drone Shipping”.
+Write a comment for this section of the code, "Drone Shipping".
 
-Create an if/elif/else statement for the cost of drone shipping. This statement should check against weight and print the cost of shipping a package of that weight.
+Create an `if/elif/else` statement for the cost of drone shipping. This statement should check against `weight` and print the `cost` of shipping a package of that weight.
 
-
-Get a hint
+### Task 7
 
 A package that weighs 1.5 pounds should cost $6.75 to ship by drone:
 
-1
-.
-5
- 
-�
-�
-×
-$
-4
-.
-5
-0
-+
-$
-0
-.
-0
-0
-=
-$
-6
-.
-7
-5
-1.5 lb×$4.50+$0.00=$6.75
+*1.5lb × $4.50 + $0.00 = $6.75*
+
 Test that your drone shipping calculation gets the same value.
 
-
-Get a hint
-Solution:
+### Task 8
 
 Great job! Now, test everything one more time!
 
@@ -154,19 +103,14 @@ What is the cheapest method of shipping a 4.8 pound package and how much would i
 
 What is the cheapest method of shipping a 41.5 pound package and how much would it cost?
 
-(See hint for answers)
-
-
-Get a hint
+### Task 9
 
 Don’t forget to check off all the tasks before moving on.
 
 Sample solutions:
 
-shipping.py
+[`shipping.py`](https://github.com/Codecademy/learn-python/blob/main/2-control-flow/sals-shipping/shipping.py)
+
 P.S. If you make something cool, share it with us!
 
-
-Get a hint
 You made it past the finish line! If you're done, be sure to check off all the tasks for this project.
-Continue
