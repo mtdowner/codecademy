@@ -45,20 +45,16 @@ Check off all the tasks as you go. Once all are completed you can complete the p
 ## Ground Shipping:
 
 ### Task 1
-
 First things first, define a `weight` variable and set it equal to any number.
 
 ### Task 2
-
 Next, we need to know how much it costs to ship a package of given weight by normal ground shipping based on the "Ground shipping" table above.
 
 Write a comment that says "Ground Shipping".
 
-Create an `if/elif/else` statement for the cost of ground shipping. It should check for `weight`, and print the `cost` of shipping a package of that weight.
-
+Create an `if`/`elif`/`else` statement for the cost of ground shipping. It should check for `weight`, and print the `cost` of shipping a package of that weight.
 
 ### Task 3
-
 A package that weighs 8.4 pounds should cost $53.60 to ship with normal ground shipping:
 
 *8.4lb × $4.00 + $20.00 = $53.60*
@@ -68,7 +64,6 @@ Test that your ground shipping calculation gets the same value.
 ## Ground Shipping Premium:
 
 ### Task 4
-
 We’ll also need to make sure we include the price of premium ground shipping in our code.
 
 Create a variable for the cost of premium ground shipping.
@@ -76,19 +71,16 @@ Create a variable for the cost of premium ground shipping.
 > **Note**: This does not need to be an if statement because the price of premium ground shipping does not change with the weight of the package.
 
 ### Task 5
-
 Print it out for the user just in case they forgot!
 
 ## Drone Shipping:
 
 ### Task 6
-
 Write a comment for this section of the code, "Drone Shipping".
 
-Create an `if/elif/else` statement for the cost of drone shipping. This statement should check against `weight` and print the `cost` of shipping a package of that weight.
+Create an `if`/`elif`/`else` statement for the cost of drone shipping. This statement should check against `weight` and print the `cost` of shipping a package of that weight.
 
 ### Task 7
-
 A package that weighs 1.5 pounds should cost $6.75 to ship by drone:
 
 *1.5lb × $4.50 + $0.00 = $6.75*
@@ -96,7 +88,6 @@ A package that weighs 1.5 pounds should cost $6.75 to ship by drone:
 Test that your drone shipping calculation gets the same value.
 
 ### Task 8
-
 Great job! Now, test everything one more time!
 
 What is the cheapest method of shipping a 4.8 pound package and how much would it cost?
@@ -104,13 +95,14 @@ What is the cheapest method of shipping a 4.8 pound package and how much would i
 What is the cheapest method of shipping a 41.5 pound package and how much would it cost?
 
 ### Task 9
-
 Don’t forget to check off all the tasks before moving on.
 
 Sample solutions:
 
-[`shipping.py`](https://github.com/Codecademy/learn-python/blob/main/2-control-flow/sals-shipping/shipping.py)
+- [`shipping.py`](https://github.com/Codecademy/learn-python/blob/main/2-control-flow/sals-shipping/shipping.py)
 
 P.S. If you make something cool, share it with us!
+
+---
 
 You made it past the finish line! If you're done, be sure to check off all the tasks for this project.
