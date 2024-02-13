@@ -12,7 +12,7 @@ Front-end engineers work closely with designers to make websites beautiful, func
 
 ### Web Foundations
 
-Get started with the foundations. By the end of this section, you’ll be able to build a stylized website with HTML and CSS.
+Get started with the foundations. By the end of this section, you'll be able to build a stylized website with HTML and CSS.
 
 - [x] Introduction to Front-End Engineer Career Path
 - [x] Fundamentals of HTML
@@ -57,7 +57,7 @@ Build interactive sites using JavaScript and host it on a remote GitHub reposito
 
 9% progress
 
-Learn the front-end skills you’ll need to create interactive applications. Build a single-page web app that handles user actions. Then, deploy your app to Netlify.
+Learn the front-end skills you'll need to create interactive applications. Build a single-page web app that handles user actions. Then, deploy your app to Netlify.
 
 - [ ] JavaScript Syntax, Part III
 - [ ] JavaScript Testing
@@ -75,7 +75,7 @@ Learn the front-end skills you’ll need to create interactive applications. Bui
 
 ### Interview Prep
 
-It’s important to learn interviewing skills to help you land your target role. Technical and behavioral interviews can be exciting, but also intimidating. Don’t worry though, we’re here to help.
+It's important to learn interviewing skills to help you land your target role. Technical and behavioral interviews can be exciting, but also intimidating. Don't worry though, we're here to help.
 
 - [ ] What To Expect in a Technical Interview
 - [ ] Linear Data Structures

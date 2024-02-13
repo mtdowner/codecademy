@@ -1,13 +1,13 @@
 # Sal's Shipping
 
-Sal runs the biggest shipping company in the tri-county area, Sal’s Shippers. Sal wants to make sure that every single one of his customers has the best, and most affordable experience shipping their packages.
+Sal runs the biggest shipping company in the tri-county area, Sal's Shippers. Sal wants to make sure that every single one of his customers has the best, and most affordable experience shipping their packages.
 
-In this project, you’ll build a program that will take the weight of a package and determine the cheapest way to ship that package using Sal’s Shippers.
+In this project, you'll build a program that will take the weight of a package and determine the cheapest way to ship that package using Sal's Shippers.
 
-Sal’s Shippers has several different options for a customer to ship their package:
+Sal's Shippers has several different options for a customer to ship their package:
 
 - Ground Shipping, which is a small flat charge plus a rate based on the weight of your package.
-- Ground Shipping Premium, which is a much higher flat charge, but you aren’t charged for weight.
+- Ground Shipping Premium, which is a much higher flat charge, but you aren't charged for weight.
 - Drone Shipping (new), which has no flat charge, but the rate based on weight is triple the rate of ground shipping.
 
 Here are the prices:
@@ -34,7 +34,7 @@ Flat charge: $125.00
 | Over 6 lb but less than or equal to 10 lb	| $12.00	| $0.00 |
 | Over 10 lb	| $14.25 |	$0.00 |
 
-Write a `shipping.py` Python program that asks the user for the weight of their package and then tells them which method of shipping is cheapest and how much it will cost to ship their package using Sal’s Shippers.
+Write a `shipping.py` Python program that asks the user for the weight of their package and then tells them which method of shipping is cheapest and how much it will cost to ship their package using Sal's Shippers.
 
 Note that the walkthrough video for this project is slightly out of date — the walkthrough was done using a version of this project that uses functions. Feel free to come back to the video after having been introduced to functions!
 
@@ -64,7 +64,7 @@ Test that your ground shipping calculation gets the same value.
 ## Ground Shipping Premium:
 
 ### Task 4
-We’ll also need to make sure we include the price of premium ground shipping in our code.
+We'll also need to make sure we include the price of premium ground shipping in our code.
 
 Create a variable for the cost of premium ground shipping.
 
@@ -95,7 +95,7 @@ What is the cheapest method of shipping a 4.8 pound package and how much would i
 What is the cheapest method of shipping a 41.5 pound package and how much would it cost?
 
 ### Task 9
-Don’t forget to check off all the tasks before moving on.
+Don't forget to check off all the tasks before moving on.
 
 Sample solutions:
 

@@ -50,7 +50,7 @@ Output your second initial as a block letter by adding to the `print()` statemen
 Press **Save** to run your program.
 
 ### Task 5
-Don’t forget to check off all the tasks before moving on.
+Don't forget to check off all the tasks before moving on.
 
 Sample solutions:
 

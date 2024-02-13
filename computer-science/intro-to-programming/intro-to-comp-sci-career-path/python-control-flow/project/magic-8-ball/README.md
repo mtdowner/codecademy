@@ -4,7 +4,7 @@ The Magic 8-Ball is a popular toy developed in the 1950s for fortune-telling or 
 
 Write a magic8.py Python program that can answer any "Yes" or "No" question with a different fortune each time it executes.
 
-We’ll be using the following 9 possible answers for our Magic 8-Ball:
+We'll be using the following 9 possible answers for our Magic 8-Ball:
 
 - `Yes - definitely`
 - `It is decidedly so`
@@ -20,7 +20,7 @@ The output of the program will have the following format:
 
 ```py
 [Name] asks: [Question]
-Magic 8-Ball’s answer: [Answer]
+Magic 8-Ball's answer: [Answer]
 ```
 
 For example:
@@ -29,7 +29,7 @@ For example:
 Joe asks: Is this real life?
 Magic 8-Ball's answer: Better not tell you now
 ```
-Let’s get started!
+Let's get started!
 
 ## Tasks
 
@@ -39,28 +39,28 @@ Let’s get started!
 In `magic8.py`, declare a variable name and assign it to the name of the person who will be asking the Magic 8-Ball.
 
 ### Task 2
-Next, declare a variable `question`, and assign it to a "Yes" or "No" question you’d like to ask the Magic 8-Ball.
+Next, declare a variable `question`, and assign it to a "Yes" or "No" question you'd like to ask the Magic 8-Ball.
 
 ### Task 3
-We want to store the answer of the Magic 8-Ball in another variable, which we’ll call `answer`. For now, assign this variable to an empty string.
+We want to store the answer of the Magic 8-Ball in another variable, which we'll call `answer`. For now, assign this variable to an empty string.
 
 ## Generating a random number
 
 ### Task 4
 In order for the answer to be different each time we run the program, we will utilize randomly generated values.
 
-> **Note**: This will be something new! But don’t worry, we will try to explain this topic thoroughly and also supply the code.
+> **Note**: This will be something new! But don't worry, we will try to explain this topic thoroughly and also supply the code.
 
 In Python, we can use the `.randint()` function from the `random` module to generate a random number from a range.
 
-But first, let’s import this module so we can use its functions. Add this line of code to the top of `magic8.py`:
+But first, let's import this module so we can use its functions. Add this line of code to the top of `magic8.py`:
 
 ```py
 import random
 ```
 
 ### Task 5
-Next, we’ll create a variable to store the randomly generated value. Declare a variable called `random_number`, and assign it to the function call:
+Next, we'll create a variable to store the randomly generated value. Declare a variable called `random_number`, and assign it to the function call:
 
 ```py
 random.randint(1, 9)
@@ -70,14 +70,14 @@ which will generate a random number between 1 (inclusive) and 9 (inclusive).
 
 Next, add a `print()` statement that outputs the value of random_number, and run the program several times to ensure random values are being generated as expected.
 
-Once you’re sure this is working as we expected, feel free to comment out this `print()` statement.
+Once you're sure this is working as we expected, feel free to comment out this `print()` statement.
 
 ## Control Flow
 
 ### Task 6
-Now that we’ve declared all the variables needed, it’s time to implement the core logic of our program!
+Now that we've declared all the variables needed, it's time to implement the core logic of our program!
 
-For this section, we’ll be utilizing control flow using an `if`/`elif`/`else` statement to assign different answers for each randomly generated value.
+For this section, we'll be utilizing control flow using an `if`/`elif`/`else` statement to assign different answers for each randomly generated value.
 
 First, write an `if` statement where if the `random_number` is equal to `1`, `answer` is assigned to the phrase "Yes - definitely"
 
@@ -114,7 +114,7 @@ Following the `if`/`elif` statements, add an `else` statement that will set `ans
 ## Seeing the result
 
 ### Task 9
-Now, let’s see our program in action! Write a `print()` statement to output the asker’s `name` and their `question`, which should be in the following format:
+Now, let's see our program in action! Write a `print()` statement to output the asker's `name` and their `question`, which should be in the following format:
 
 ```py
 [Name] asks: [Question]
@@ -127,7 +127,7 @@ Joe asks: Will I win the lottery?
 ```
 
 ### Task 10
-Add a second `print()` statement that will output the Magic 8-Ball’s `answer` in the following format:
+Add a second `print()` statement that will output the Magic 8-Ball's `answer` in the following format:
 
 ```py
 Magic 8-Ball's answer: [answer]
@@ -140,14 +140,14 @@ Magic 8-Ball's answer: My sources say no
 ```
 
 ### Task 11
-Great job! You’ve successfully utilized your knowledge of conditionals and previous fundamental Python concepts to create a program that generates different fortunes.
+Great job! You've successfully utilized your knowledge of conditionals and previous fundamental Python concepts to create a program that generates different fortunes.
 
-Run your program several times to see that it’s working as expected.
+Run your program several times to see that it's working as expected.
 
 ## Optional Challenges
 
 ### Task 12
-If you’re up for some more challenges, try implementing the following features to your program.
+If you're up for some more challenges, try implementing the following features to your program.
 
 So far, the Magic 8-Ball provides 9 possible fortunes. Try to add a few more possible answers to the program.
 
@@ -173,7 +173,7 @@ What if the asker does not provide a name, such that the value of name is an emp
  You can implement this by creating an `if`/`else` statement such that:
 
  - If the name is an empty string, it will only print the question.
- - Else, the player’s name and question are both printed.
+ - Else, the player's name and question are both printed.
 
 ### Task 14
  What if the `question` string is empty? If the user does not provide any question, then the Magic 8-Ball cannot provide a fortune, otherwise, the fabric of reality is at risk!
@@ -181,10 +181,10 @@ What if the asker does not provide a name, such that the value of name is an emp
  To ensure that the fabric of reality is safe, we can create an `if`/`else` statement where:
 
  - If the question is an empty string, print out a message to the user.
- El- se, print the name and question, with the Magic 8-Ball’s answer.
+ El- se, print the name and question, with the Magic 8-Ball's answer.
  
 ###  Task 15
- Don’t forget to check off all the tasks before moving on.
+ Don't forget to check off all the tasks before moving on.
 
  Sample solutions:
 
