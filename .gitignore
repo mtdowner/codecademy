@@ -1,5 +1,5 @@
-/.vs
-.vscode/
+.vs
+.vscode
 .gitpod.dockerfile
 .gitpod.yml
 node_modules
@@ -8,3 +8,4 @@ package-lock.json
 theme.jsonc
 theme.json
 mytheme.jsonc
+Dockerfile

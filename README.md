@@ -83,8 +83,8 @@ It's important to learn interviewing skills to help you land your target role. T
 - [ ] Algorithms
 - [ ] Search and Graph Search Algorithms
 - [ ] Interview Skills
-- [ ]  Portfolio Project: Open-Ended Project
-- [ ]  Next Steps in Your Front-End Engineer Journey
+- [ ] Portfolio Project: Open-Ended Project
+- [ ] Next Steps in Your Front-End Engineer Journey
 
 - [ ] **Certification exam Objective assessment — Part 1**
 - [ ] **Certification exam Objective assessment — Part 2**

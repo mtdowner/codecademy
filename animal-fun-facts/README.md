@@ -12,20 +12,13 @@ Let's get started!
 
 ## Tasks
 
-
 ### Add a Title
 
 1. On line 1 in `app.js`, you should see an import statement. This is importing the animals object from `animals.js`. Feel free to take a look at it now, but we'll be coming back to it in later tasks.
 
 For now, let's import the `React` from `react` and `createRoot` from `react-dom`/`client`.
 
-
-
-
 2. Click on `index.html` to find out the id of the HTML element to get a reference of. Use this id and the `document` object to get a reference of this element and store it in a constant called `container`.
-
-
-
 
 3. Create a React root so you can render content using the `createRoot()` method, passing `container` as an argument. Store this root in a constant called `root`.
 
@@ -35,23 +28,15 @@ In addition, create an `animalFacts` constant to hold the JSX expression that we
 
 We still shouldn't see anything in the browser yet! We'll have to wait until we write our React root's `render()` method before anything shows up.
 
-
-
-
 5. We could fill in the empty string assigned to `title` if we wanted, but we could also leave it blank and let the JSX use a default value instead.
 
 Using the ternary operator, let the `<h1>` heading use 'Click an animal for a fun fact' as the default if `title` is an empty string.
-
-
-
 
 6. It's time to call our `root`'s `render()` method.
 
 Let's pass in `animalFacts` as the JSX expression that we want to be compiled and rendered.
 
 When finished, click **Save**. If all goes well, we should see the text 'Click an animal for a fun fact!' appear on the screen!
-
-
 
 ### Add a Background
 
@@ -64,8 +49,6 @@ Now let's give it some attributes:
 Give it a class of `'background'`
 Let's use `'ocean'` for alt.
 Finally, use `'/images/ocean.jpg'` as the value of `src`.
-
-
 
 8. Let's reformat the JSX expression stored in `animalFacts` to include the background variable.
 
@@ -87,21 +70,18 @@ Assuming `animal` is the placeholder variable in your `for...in loop`, each `ima
 - `role`: `'button'`
 
 
-
 10. Now that we have our array of images, let's inject it into the JSX expression.
 
-Within the animalFacts JSX, underneath {background}, create a <div>. Give it a className attribute and set it equal to'animals'. Nest the array of images inside of this element.
+Within the `animalFacts` JSX, underneath `{background}`, create a `<div>`. Give it a `className` attribute and set it equal to'animals'. Nest the array of images inside of this element.
 
-Finally, click Save. We should see our animals!
-
-
+Finally, click **Save**. We should see our animals!
 
 ### Adding Fun Facts
 
 11. Now that we have our animals displaying on the screen, we're ready to add an event listener! But first, let's write a function to handle this event.
 
-1. Create a function displayFact() that takes one parameter e, the event. We want this function to pick a random fun fact based on the selected animal.
-2. Inside of the function, use e.target.alt to get the name of the animal being clicked.
+1. Create a function `displayFact()` that takes one parameter e, the event. We want this function to pick a random fun fact based on the selected animal.
+2. Inside of the function, use `e.target.alt` to get the name of the animal being clicked.
 3. Generate a random index and use it to access an element in the animal's .facts array.
 4. Save the fun fact in a variable.
 
