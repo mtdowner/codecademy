@@ -1,5 +1,5 @@
 # Weight of package in lbs
-weight = 4.8
+weight = 4.83
 
 # Ground Shipping
 if weight <= 2:
@@ -11,12 +11,12 @@ elif weight <= 10:
 else:
   cost_ground = weight * 4.75 + 20.00
 
-print("Ground Shipping: $", cost_ground)
+print("Ground Shipping: $", round(cost_ground, 3))
 
 # Ground Premium is a flat rate
 cost_premium = 125.00
 
-print("Ground Shipping Premium: $", cost_premium)
+print("Ground Shipping Premium: $", round(cost_premium, -2))
 
 # Drone Shipping
 if weight <= 2:
@@ -28,4 +28,4 @@ elif weight <= 10:
 else:
   cost_drone = weight * 14.25
 
-print("Drone Shipping: $", cost_drone)
+print("Drone Shipping: $", round(cost_drone, 3))
