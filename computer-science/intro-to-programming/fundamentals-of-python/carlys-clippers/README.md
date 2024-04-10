@@ -31,9 +31,10 @@ A variable is something that holds a value that may change.
 ```py
 lucky = 7
 ```
+
 This code creates a variable called `lucky`, and assigns to it the integer number `7`.
 
-2. Loop through the `prices` list and add each price to the variable total_price.
+2. Loop through the `prices` list and add each price to the variable `total_price`.
 
 Hint
 
@@ -45,6 +46,7 @@ for price in `prices`:
 ```
 
 You can also simplify the code by using the `+=` operator:
+
 ```py
 for price in `prices`:
   total_price += price
