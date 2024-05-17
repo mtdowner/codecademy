@@ -92,7 +92,7 @@ Hint
 
 Bombs have a lot of energy: `90000000000000000` of it.
 
-10. Print the string "A 1kg bomb supplies X Joules.", with `X` replaced by `bomb_energy`.
+10. Print the string `"A 1kg bomb supplies X Joules."`, with `X` replaced by `bomb_energy`.
 
 ## Do the Work
 
