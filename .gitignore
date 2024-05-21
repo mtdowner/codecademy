@@ -1,5 +1,5 @@
 .vs
-.vscode
+.vscode/settings.json
 .gitpod.dockerfile
 .gitpod.yml
 node_modules

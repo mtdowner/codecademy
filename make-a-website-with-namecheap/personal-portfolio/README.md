@@ -1,26 +1,17 @@
-Skip to Content
-Project
-Code
-Output
+# Building a Personal Portfolio
 
-Building a Personal Portfolio
-Project Brief
-Objective
-HOW TO MAKE A WEBSITE WITH NAMECHEAP
-Building a Personal Portfolio
+**HOW TO MAKE A WEBSITE WITH NAMECHEAP**
+
 Building a personal portfolio provides an immediate demonstration of your programming prowess for prospective employers. It’s important, therefore, that this webpage appears clean and well-organized. A user should easily understand a particular page’s content and navigate seamlessly through your different pages.
 
 You will be making several different webpages so it’s perfectly ok, and even recommended, to take breaks after completing each page. Also keep in mind that we’re providing not only guidelines on a very specific design but also the CSS which has established fonts, spacing, etc. that work for this particular design. Feel free to add, remove, or modify any details on a given page.
 
-Tasks
-1/33 complete
-Mark the tasks as complete by checking them off
-The Home Page
-1.
-Let’s start your personal portfolio by building the home page - the initial landing page for anyone who visits your website. Click here to see what your home page should look like by the end of this task.
+## Tasks
 
-2.
-Making the Header
+### The Home Page
+1. Let’s start your personal portfolio by building the home page - the initial landing page for anyone who visits your website. Click here to see what your home page should look like by the end of this task.
+
+2. ### Making the Header
 
 Let’s begin crafting your navigation header, which will offer a user other pages to visit. Within the body, create a header element with Bootstrap’s container class. When you run your code, it will appear as if nothing has changed. That’s perfectly alright because you’re setting up the containers where the text will appear.
 
@@ -28,13 +19,14 @@ Let’s begin crafting your navigation header, which will offer a user other pag
 Hint
 Give the header the correct class.
 
+```html
 <body>
     <header class="_________">
     </header>
 </body>
+```
 
-3.
-Within this opening container, create a div with the Bootstrap class row.
+3. Within this opening container, create a div with the Bootstrap class row.
 
 
 Hint
@@ -456,5 +448,3 @@ Remember to correctly nest your elements and give them the correct class.
 Next Steps
 33.
 Congratulations! You’ve created a fully functioning personal portfolio with four HTML pages that link up with CSS and Bootstrap! If you’re looking to expand on your personal portfolio, try creating a “Contact Me” page with your personal information so prospective employers can reach out to you directly. One “Contact Me” page idea would look like this. Make sure to update your header for any new pages that you add. Also, see if you can add a button at the bottom of each page (but above the footer) that will return a user to the home page. Next, let’s learn how to deploy your personal portfolio to the Internet!
-
-
