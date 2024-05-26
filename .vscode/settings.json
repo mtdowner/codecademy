@@ -1,4 +1,14 @@
 {
   "base9.palette": "ffffff-972fff-00beef-008fff-00afff-aa00ff-9300ff-8a2be2-8866ff",
-  "workbench.colorTheme": "Base 9"
+  "workbench.colorTheme": "Base 9",
+  "terminal.integrated.tabs.showActions": "always",
+  "terminal.integrated.tabs.location": "left",
+  "terminal.integrated.tabs.hideCondition": "never",
+  "terminal.integrated.tabs.enabled": false,
+  "terminal.integrated.tabs.defaultColor": "terminal.ansiMagenta",
+  "terminal.integrated.smoothScrolling": true,
+  "terminal.integrated.enableVisualBell": true,
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.copyOnSelection": true
 }
