@@ -2,12 +2,12 @@
 
 Get started with Python syntax in this lesson and then create a point of sale system for a furniture store!
 
-Lesson Hello World
-Quiz Hello World
-Project Block Letters
-Project Receipts for Lovely Loveseats
-Article Make the Most of Your Codecademy Membership
-Article User Input
+- Lesson Hello World
+- Quiz Hello World
+- Project Block Letters
+- Project Receipts for Lovely Loveseats
+- Article Make the Most of Your Codecademy Membership
+- Article User Input
 
 ---
 
