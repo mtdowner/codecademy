@@ -10,5 +10,8 @@
   "terminal.integrated.enableVisualBell": true,
   "terminal.integrated.defaultProfile.linux": "bash",
   "terminal.integrated.cursorBlinking": true,
-  "terminal.integrated.copyOnSelection": true
+  "terminal.integrated.copyOnSelection": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.multiCursorPaste": "full",
+  "editor.cursorSmoothCaretAnimation": "on"
 }
