@@ -4,7 +4,7 @@
   "terminal.integrated.tabs.showActions": "always",
   "terminal.integrated.tabs.location": "left",
   "terminal.integrated.tabs.hideCondition": "never",
-  "terminal.integrated.tabs.enabled": false,
+  "terminal.integrated.tabs.enabled": true,
   "terminal.integrated.tabs.defaultColor": "terminal.ansiMagenta",
   "terminal.integrated.smoothScrolling": true,
   "terminal.integrated.enableVisualBell": true,
